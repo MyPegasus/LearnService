@@ -47,7 +47,7 @@ public class MyService extends Service {
 
                 while (serviceRunning) {
 
-                    System.out.println("服务正在运行...");
+                    System.out.println("服务正在运行....");
 
                     try {
                         sleep(1000);
